@@ -137,15 +137,16 @@ Segmentation des individus en 3 profils via K-Means (Stress Level, Sleep Duratio
   - **pandas** — manipulation et analyse des données
   - **seaborn / matplotlib** — visualisation des données (heatmaps, graphiques)
   - **scikit-learn** — `LabelEncoder`, `StandardScaler` et `KMeans` pour le clustering
+
 ## Structure du dépôt
 ```text
-Projet_DS53/
-├── projet_ds53.pbix
-│   └── Fichier Power BI complet (rapport + modèle de données)
-├── Presentation_DS53.pdf
+power-bi-health-sleep-analysis/
+├── Presentation_project.pdf
 │   └── Support de présentation du projet
-└── README.md
-    └── Documentation du projet
+├── README.md
+│   └── Documentation du projet
+└── projet_ds53 - Copie (2).pbix
+    └── Fichier Power BI complet (rapport + modèle de données)
 ```
 ## Utilisation
 Cloner ce dépôt
@@ -172,6 +173,6 @@ Python installé localement avec : pandas, seaborn, matplotlib, scikit-learn
 
 L'analyse confirme un lien fort entre stress et qualité/durée du sommeil, avec des variations notables selon la profession, le niveau d'activité physique et la tranche d'âge. Le clustering permet d'identifier des profils types utiles pour cibler des actions de prévention (ex. population "à risque" avec stress élevé et activité physique modérée).
 
-## Auteurs
+## Auteur
 MOUSSAOUI Ikram
 
