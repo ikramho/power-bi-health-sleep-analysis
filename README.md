@@ -1,4 +1,4 @@
-## Power BI Dashboards for Health and Sleep Analysis
+## Tableaux de Bord Power BI — Analyse Santé et Sommeil
 
 Projet de Data Analyse explorant les liens entre le stress, la qualité du sommeil et divers facteurs de santé et de mode de vie, réalisé avec Power BI et des visuels Python intégrés (analyse de corrélation et clustering).
 
