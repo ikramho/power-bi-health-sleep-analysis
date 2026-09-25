@@ -173,6 +173,6 @@ Python installé localement avec : pandas, seaborn, matplotlib, scikit-learn
 
 L'analyse confirme un lien fort entre stress et qualité/durée du sommeil, avec des variations notables selon la profession, le niveau d'activité physique et la tranche d'âge. Le clustering permet d'identifier des profils types utiles pour cibler des actions de prévention (ex. population "à risque" avec stress élevé et activité physique modérée).
 
-## Auteur
+## Auteure
 MOUSSAOUI Ikram
 
